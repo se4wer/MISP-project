@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(pip show:*)",
+      "Bash(python:*)",
+      "Bash(del \"D:\\\\Math project\\\\assignment_executed.ipynb\")",
+      "Bash(pip install:*)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(del \"D:\\\\Math project\\\\executed_test.ipynb\")",
+      "Bash(pip --version:*)",
+      "Bash(powershell -Command \"\\(Get-Item ''D:\\\\Math project\\\\report.pdf''\\).Length / 1KB\")"
+    ]
+  }
+}
